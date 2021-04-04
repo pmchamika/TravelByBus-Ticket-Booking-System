@@ -1,0 +1,8 @@
+
+.input[type=text]:enabled {
+    background: #ffff00;
+}
+
+.input[type=text]:disabled {
+    background: #dddddd;
+}
