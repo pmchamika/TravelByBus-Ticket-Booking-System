@@ -68,7 +68,7 @@ public class ConnectionMySql {
 
 	}
 	/**
-	 * @param inserQuery String the sect query
+	 * @param insertQuery String the sect query
 	 * @throws SQL Exception
 	 *
 	 */
