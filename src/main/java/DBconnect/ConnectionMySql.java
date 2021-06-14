@@ -68,8 +68,8 @@ public class ConnectionMySql {
 
 	}
 	/**
-	 *
-	 * Edited by kaushirajapakshe
+	 * @param inserQuery String the sect query
+	 * @throws SQL Exception
 	 *
 	 */
 	public PreparedStatement selectResult(String insertQuery) throws SQLException{
