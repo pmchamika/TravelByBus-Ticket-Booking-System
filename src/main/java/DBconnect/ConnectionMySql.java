@@ -1,3 +1,9 @@
+/**
+* The HelloWorld program implements an application that
+* simply displays "Hello World!" to the standard output.
+*
+* @author  Zara Ali
+*/
 package DBconnect;
 import java.sql.*;
 
